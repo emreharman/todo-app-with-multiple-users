@@ -6,4 +6,4 @@ There are users and their own todos. You can register and login. Then you can ad
 
 # About Used Tech
 
-I've used ract-bootstrap for UI, Context API for state management and json-server for fake api. I plan to write a backend with Node.js, Express.js and MongoDB. I'will create another repo and upload it to there.
+I've used react-bootstrap for UI, Context API for state management and json-server for fake api. I plan to write a backend with Node.js, Express.js and MongoDB. I'will create another repo and upload it to there.
