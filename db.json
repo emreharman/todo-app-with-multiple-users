@@ -1,0 +1,55 @@
+{
+  "todos": [
+    {
+      "title": "Work  2",
+      "text": "Barcode input must read new text everytime",
+      "done": true,
+      "userId": 1,
+      "date": "26.08.2021 11:39:54",
+      "id": 1
+    },
+    {
+      "title": "2",
+      "text": "text",
+      "done": false,
+      "userId": 1,
+      "date": "27.08.2021 14:03:45",
+      "id": 2
+    },
+    {
+      "title": "deneme",
+      "text": "deneme",
+      "done": false,
+      "userId": 5,
+      "date": "27.08.2021 14:04:22",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "emrehrmn",
+      "password": "123456"
+    },
+    {
+      "username": "user1",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "user2",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "username": "user3",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "username": "deneme",
+      "password": "1234",
+      "id": 5
+    }
+  ]
+}
